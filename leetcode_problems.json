@@ -1,0 +1,26 @@
+{
+    "easy": [
+        "https://leetcode.com/problems/two-sum/",
+        "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/",
+        "https://leetcode.com/problems/contains-duplicate/",
+        "https://leetcode.com/problems/product-of-array-except-self/",
+        "https://leetcode.com/problems/maximum-subarray/",
+        "https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/"
+    ], 
+
+    "medium": [
+        "https://leetcode.com/problems/3sum/", 
+        "https://leetcode.com/problems/set-matrix-zeroes/",
+        "https://leetcode.com/problems/longest-repeating-character-replacement/", 
+        "https://leetcode.com/problems/group-anagrams/", 
+        "https://leetcode.com/problems/minimum-window-substring/"
+    ], 
+
+    "hard": [
+        "https://leetcode.com/problems/merge-k-sorted-lists/", 
+        "https://leetcode.com/problems/serialize-and-deserialize-binary-tree/", 
+        "https://leetcode.com/problems/edit-distance/", 
+        "https://leetcode.com/problems/maximum-gap/", 
+        "https://leetcode.com/problems/reverse-pairs/"
+    ]
+}
